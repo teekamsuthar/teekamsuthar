@@ -28,7 +28,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teekamsuthar&theme=light&hide_langs_below=0" />
 </a> -->
 <p align="center">
-  <img alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwansoaib&hide=html,css&hide_border=true&title_color=5391FE&text_color=555"/>
+  <img alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teekamsuthar&hide=html,css&hide_border=true&title_color=5391FE&text_color=555"/>
   <br>
   <a href="https://github.com/teekamsuthar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=teekamsuthar&show_icons=true&theme=light&line_height=27" alt="Teekam's github stats"/>
