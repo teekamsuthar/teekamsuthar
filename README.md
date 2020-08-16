@@ -34,7 +34,7 @@
 
 </p>
 
-<p align="center"><h1 align="center">⚡ Languages and Tools:</h1></p>
+<p align="center"><h2 align="center">⚡ Languages and Tools:</h2></p>
 
 <p align="center">
   
@@ -49,10 +49,12 @@
 <code><img align="center" width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img align="center" width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"></code> </p>
 
-<p align="center"><h1 align="center">🌐 Connect with me on:</h1></p>
+<p align="center"><h2 align="center">🌐 Connect with me on:</h2></p>
 
 <p align="center">
-  <a href="mailto:teekam.suthar1@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="teekamsuthar" height="30" width="50" /></a>
+  <a href="mailto:teekam.suthar1@gmail.com" target="blank">
+    <img align="center" alt="Teekam's email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" />
+  </a>
   <a href="https://twitter.com/Teekam_Suthar">
     <img align="center" alt="Teekam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
