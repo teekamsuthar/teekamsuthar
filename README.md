@@ -1,10 +1,5 @@
 ## Namaste, I'm [Teekam Suthar!](http://teekamsuthar.me) 🙏
 
-<p align="left">
-
-  <img src="https://komarev.com/ghpvc/?username=teekamsuthar&label=Views&color=blue&style=plastic" alt="teekamsuthar" />
-</p>
-
 - 🔭 I’m currently working as an Android App Dev.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on OpenSource Projects.
@@ -19,7 +14,8 @@
 [![Twitter: Teekam_Suthar](https://img.shields.io/twitter/follow/Teekam_Suthar?style=social)](https://twitter.com/Teekam_Suthar)
 [![Linkedin: teekamsuthar](https://img.shields.io/badge/-teekamsuthar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teekamsuthar/)](https://www.linkedin.com/in/teekamsuthar)
 [![GitHub teekamsuthar](https://img.shields.io/github/followers/teekamsuthar?label=follow&style=social)](https://github.com/teekamsuthar)
-[![website](https://img.shields.io/badge/PortfolioWebsite-teekamsuthar.me-2648ff?style=flat-square&logo=google-chrome)](http://teekamsuthar.me) </p>
+[![website](https://img.shields.io/badge/PortfolioWebsite-teekamsuthar.me-2648ff?style=flat-square&logo=google-chrome)](http://teekamsuthar.me) 
+<img src="https://komarev.com/ghpvc/?username=teekamsuthar&label=Views&color=blue&style=plastic" alt="teekamsuthar" /> </p>
 
 <br>
 
