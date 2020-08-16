@@ -1,6 +1,6 @@
 ## Hola, I'm [Teekam Suthar!](http://teekamsuthar.me) 👋
 
-<p align="center">
+<p align="left">
 
   <img src="https://komarev.com/ghpvc/?username=teekamsuthar&label=Views&color=blue&style=plastic" alt="teekamsuthar" />
 
@@ -13,7 +13,7 @@
 
 </p>
 
-<p align="center">
+<p align="left">
 
 [![Twitter: Teekam_Suthar](https://img.shields.io/twitter/follow/Teekam_Suthar?style=social)](https://twitter.com/Teekam_Suthar)
 [![Linkedin: teekamsuthar](https://img.shields.io/badge/-teekamsuthar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teekamsuthar/)](https://www.linkedin.com/in/teekamsuthar)
@@ -23,19 +23,19 @@
 </p>
 
 <!-- <a href="https://github.com/teekamsuthar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teekamsuthar&theme=light&hide_langs_below=0" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teekamsuthar&theme=light&hide_langs_below=0" />
 </a> -->
-<p align="center">
+<p align="left">
 
   <a href="https://github.com/teekamsuthar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=teekamsuthar&show_icons=true&theme=light&line_height=27" alt="Teekam's github stats"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=teekamsuthar&show_icons=true&theme=light&line_height=27" alt="Teekam's github stats"/>
   </a>
 
 </p>
 
-<p align="center"> **⚡ Languages and Tools:** </p>
+<p align="left"> **⚡ Languages and Tools:** </p>
 
-<p align="center">
+<p align="left">
   
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
@@ -50,9 +50,9 @@
 
 </p>
 
-<p align="center"> **🌐 Connect with me on:** </p>
+<p align="left"> **🌐 Connect with me on:** </p>
 
-<p align="center">
+<p align="left">
 
   <a href="https://twitter.com/Teekam_Suthar">
     <img align="left" alt="Teekam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
