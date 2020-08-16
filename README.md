@@ -1,8 +1,9 @@
 ## Namaste, I'm [Teekam Suthar!](http://teekamsuthar.me) 🙏
 
-<p align="center">
+<p align="left">
 
   <img src="https://komarev.com/ghpvc/?username=teekamsuthar&label=Views&color=blue&style=plastic" alt="teekamsuthar" />
+</p>
 
 - 🔭 I’m currently working as an Android App Developer.
 - 🌱 I’m currently learning Flutter.
@@ -11,8 +12,10 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a bathroom singer.🎤
 
+
+
 <br>
-</p>
+
 
 <p align="center">
 
