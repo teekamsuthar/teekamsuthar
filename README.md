@@ -30,8 +30,9 @@
   <a href="https://github.com/teekamsuthar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=teekamsuthar&show_icons=true&theme=light&line_height=27" alt="Teekam's github stats"/>
   </a>
-  <br>
-  <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwansoaib&hide=html,css&hide_border=true&title_color=5391FE&text_color=555"/>
+  <img alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwansoaib&hide=html,css&hide_border=true&title_color=5391FE&text_color=555"/>
+
+</p>
 
 <p align="center"><h1 align="center">⚡ Languages and Tools:</h1></p>
 
@@ -46,9 +47,7 @@
 <code><img align="center" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img align="center" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img align="center" width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg"></code>
-<code><img align="center" width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"></code>
-  
-</p>
+<code><img align="center" width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"></code> </p>
 
 <p align="center"><h1 align="center">🌐 Connect with me on:</h1></p>
 
