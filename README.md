@@ -9,21 +9,27 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a bathroom singer.🎤
 
+<p align="center">
+
 [![Twitter: Teekam_Suthar](https://img.shields.io/twitter/follow/Teekam_Suthar?style=social)](https://twitter.com/Teekam_Suthar)
 [![Linkedin: teekamsuthar](https://img.shields.io/badge/-teekamsuthar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teekamsuthar/)](https://www.linkedin.com/in/teekamsuthar)
 [![GitHub teekamsuthar](https://img.shields.io/github/followers/teekamsuthar?label=follow&style=social)](https://github.com/teekamsuthar)
 [![website](https://img.shields.io/badge/PortfolioWebsite-teekamsuthar.me-2648ff?style=flat-square&logo=google-chrome)](http://teekamsuthar.me)
 
-<a href="https://github.com/teekamsuthar">
+</p>
+
+<!-- <a href="https://github.com/teekamsuthar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teekamsuthar&theme=light&hide_langs_below=0" />
-</a>
-<a href="https://github.com/teekamsuthar">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=teekamsuthar&show_icons=true&theme=light&line_height=27" alt="Teekam's github stats"/>
-</a>
+</a> -->
+<p align="center">
 
+  <a href="https://github.com/teekamsuthar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=teekamsuthar&show_icons=true&theme=light&line_height=27" alt="Teekam's github stats"/>
+  </a>
 
+</p>
 
-**⚡Languages and Tools:**  
+<p align="center"> **⚡ Languages and Tools:** </p>
 
 <p align="center">
   
@@ -40,7 +46,7 @@
 
 </p>
 
-**⚡Connect with me on:**  
+<p align="center"> **🌐 Connect with me on:** </p>
 
 <a href="https://twitter.com/Teekam_Suthar">
   <img align="left" alt="Teekam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
