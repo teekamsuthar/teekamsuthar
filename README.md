@@ -13,6 +13,7 @@
 
 </p>
 
+
 <p align="left">
 
 [![Twitter: Teekam_Suthar](https://img.shields.io/twitter/follow/Teekam_Suthar?style=social)](https://twitter.com/Teekam_Suthar)
@@ -30,6 +31,8 @@
   <a href="https://github.com/teekamsuthar">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=teekamsuthar&show_icons=true&theme=light&line_height=27" alt="Teekam's github stats"/>
   </a>
+  <br>
+  <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwansoaib&hide=html,css&hide_border=true&title_color=5391FE&text_color=555"/>
 
 </p>
 
