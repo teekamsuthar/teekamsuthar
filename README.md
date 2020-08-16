@@ -1,4 +1,4 @@
-## Hola, I'm [Teekam Suthar!](http://teekamsuthar.me) 👋
+## Namaste, I'm [Teekam Suthar!](http://teekamsuthar.me) 🙏
 
 <p align="center">
 
@@ -7,7 +7,7 @@
 - 🔭 I’m currently working as an Android App Developer.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on OpenSource Projects.
-- 📫 How to reach me: [Instagram - @teekamsuthar](https://instagram.com/teekamsuthar)
+- 📫 How to reach me: [@teekamsuthar](https://instagram.com/teekamsuthar) on Instagram
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a bathroom singer.🎤
 
@@ -15,13 +15,11 @@
 </p>
 
 <p align="center">
-
 [![Twitter: Teekam_Suthar](https://img.shields.io/twitter/follow/Teekam_Suthar?style=social)](https://twitter.com/Teekam_Suthar)
 [![Linkedin: teekamsuthar](https://img.shields.io/badge/-teekamsuthar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teekamsuthar/)](https://www.linkedin.com/in/teekamsuthar)
 [![GitHub teekamsuthar](https://img.shields.io/github/followers/teekamsuthar?label=follow&style=social)](https://github.com/teekamsuthar)
-[![website](https://img.shields.io/badge/PortfolioWebsite-teekamsuthar.me-2648ff?style=flat-square&logo=google-chrome)](http://teekamsuthar.me)
+[![website](https://img.shields.io/badge/PortfolioWebsite-teekamsuthar.me-2648ff?style=flat-square&logo=google-chrome)](http://teekamsuthar.me) </p>
 
-</p>
 <br>
 
 <!-- <a href="https://github.com/teekamsuthar">
