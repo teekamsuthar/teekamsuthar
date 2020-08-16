@@ -1,6 +1,6 @@
 ## Hola, I'm [Teekam Suthar!](http://teekamsuthar.me) 👋
 
-<p align="center"> 
+<p align="center">
 
   <img src="https://komarev.com/ghpvc/?username=teekamsuthar&label=Views&color=blue&style=plastic" alt="teekamsuthar" />
 
@@ -50,23 +50,25 @@
 
 </p>
 
-<p align="center"> **🌐 Connect with me on:** </p>
+<p align="center"> **🌐 Connect with me on:**
 
-<a href="https://twitter.com/Teekam_Suthar">
-  <img align="left" alt="Teekam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/teekamsuthar">
-  <img align="left" alt="Teekam's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/teekamsuthar">
-  <img align="left" alt="Teekam's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/teekamsuthar">
-  <img align="left" alt="Teekam's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/teekamsuthar/">
-  <img align="left" alt="Teekam's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/imteekamsuthar/">
-  <img align="left" alt="Teekam's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+  <a href="https://twitter.com/Teekam_Suthar">
+    <img align="left" alt="Teekam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://linkedin.com/in/teekamsuthar">
+    <img align="left" alt="Teekam's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://github.com/teekamsuthar">
+    <img align="left" alt="Teekam's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+  <a href="https://t.me/teekamsuthar">
+    <img align="left" alt="Teekam's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  </a>
+  <a href="https://instagram.com/teekamsuthar/">
+    <img align="left" alt="Teekam's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  <a href="https://www.facebook.com/imteekamsuthar/">
+    <img align="left" alt="Teekam's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  </a>
+
+</p>
