@@ -13,7 +13,6 @@
 
 </p>
 
-
 <p align="center">
 
 [![Twitter: Teekam_Suthar](https://img.shields.io/twitter/follow/Teekam_Suthar?style=social)](https://twitter.com/Teekam_Suthar)
@@ -34,22 +33,20 @@
   <br>
   <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwansoaib&hide=html,css&hide_border=true&title_color=5391FE&text_color=555"/>
 
-
 <p align="center"><h1 align="center">⚡ Languages and Tools:</h1></p>
 
 <p align="center">
   
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-  <code><img height="50" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg"></code>
-  <code><img height="50" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"></code>
-  <code><img height="50" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="50" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg"></code>
-  <code><img height="50" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"></code></p>
-
+  <code><img align="center" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+  <code><img align="center" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+  <code><img align="center" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+  <code><img align="center" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg"></code>
+  <code><img align="center" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"></code>
+  <code><img align="center" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"></code>
+  <code><img align="center" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+  <code><img align="center" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img align="center" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg"></code>
+  <code><img align="center" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"></code></p>
 
 <p align="center"><h1 align="center">🌐 Connect with me on:</h1></p>
 
