@@ -3,18 +3,19 @@
 - 🔭 I’m currently working as an Android App Dev.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on OpenSource Projects.
-- 📫 How to reach me: [@teekamsuthar](https://instagram.com/teekamsuthar) on Instagram
+- 📫 How to reach me: [@teekamsuthar](mailto:teekam.suthar1@gmail.com) via email
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a bathroom singer.🎤
 
 <br>
 
 <p align="center">
-
-[![Twitter: Teekam_Suthar](https://img.shields.io/twitter/follow/Teekam_Suthar?style=social)](https://twitter.com/Teekam_Suthar)
+  
+<!-- 
+[![Twitter: Teekam_Suthar](https://img.shields.io/twitter/follow/Teekam_Suthar?style=social)](https://twitter.com/Teekam_Suthar) -->
 [![Linkedin: teekamsuthar](https://img.shields.io/badge/-teekamsuthar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teekamsuthar/)](https://www.linkedin.com/in/teekamsuthar)
 [![GitHub teekamsuthar](https://img.shields.io/github/followers/teekamsuthar?label=follow&style=social)](https://github.com/teekamsuthar)
-[![website](https://img.shields.io/badge/PortfolioWebsite-teekamsuthar.me-2648ff?style=flat-square&logo=google-chrome)](http://teekamsuthar.me) 
+[![website](https://img.shields.io/badge/PortfolioWebsite-teekamsuthar.live-2648ff?style=flat-square&logo=google-chrome)](http://teekamsuthar.me) 
 <img src="https://komarev.com/ghpvc/?username=teekamsuthar&label=Views&color=blue&style=plastic" alt="teekamsuthar" /> </p>
 
 <br>
@@ -52,9 +53,9 @@
   <a href="mailto:teekam.suthar1@gmail.com" target="blank">
     <img align="center" alt="Teekam's email" height="30" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" />
   </a>
-  <a href="https://twitter.com/Teekam_Suthar">
+<!--   <a href="https://twitter.com/Teekam_Suthar">
     <img align="center" alt="Teekam's Twitter" height="30" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
+  </a> -->
   <a href="https://linkedin.com/in/teekamsuthar">
     <img align="center" alt="Teekam's Linkedin" height="30" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
@@ -64,9 +65,9 @@
   <a href="https://t.me/teekamsuthar">
     <img align="center" alt="Teekam's Telegram" height="30" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>
   </a>
-  <a href="https://instagram.com/teekamsuthar/">
+<!--   <a href="https://instagram.com/teekamsuthar/">
     <img align="center" alt="Teekam's Instagram" height="30" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
   </a>
-  <a href="https://www.facebook.com/imteekamsuthar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Teekam's Facebook" height="30" width="50" /></a>
+  <a href="https://www.facebook.com/imteekamsuthar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Teekam's Facebook" height="30" width="50" /></a> -->
   <a href="https://medium.com/@teekamsuthar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rizwansoaib" height="30" width="50" /></a>
 </p>
