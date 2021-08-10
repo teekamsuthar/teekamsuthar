@@ -6,10 +6,10 @@
 - 📫 How to reach me: [@teekamsuthar](mailto:teekam.suthar1@gmail.com) via email
 - 🔉 Pronouns: He/His
 - ⚡ Fun fact: I love reading business books.
+
 <br/>
 
 [<img alt="Buy me a Coffee Button" width=200 src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">](https://www.buymeacoffee.com/teekamsuthar)  [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/teekamsuthar) 
-
 <p align="center">
   
 <!-- 
@@ -38,17 +38,19 @@
 
 <p align="center"><h2 align="center">⚡ Languages and Tools:</h2></p>
 
- <p align="center">
+<p align="center">
 <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
 <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
-<img align="center" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
-<img align="center" width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg">
-<img align="center" width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg">
-<img align="center" width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg">
-<img align="center" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-<img align="center" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img align="center" width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg">
-<img align="center" width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"> </p>
+<img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+<img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-plain.svg">
+<img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+<img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+<img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> </p>
 
 <p align="center"><h2 align="center">🌐 Connect with me on:</h2></p>
 
