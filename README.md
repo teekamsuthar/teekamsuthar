@@ -3,7 +3,7 @@
 - 📱 Freelance Mobile App Developer.
 - 👨🏻‍💻 Cross-platform App dev using Flutter.
 - 💼 I’m looking to collaborate on OpenSource Projects.
-- 📫 How to reach me: [@teekamsuthar](mailto:teekam.suthar1@gmail.com) via email
+- 📫 How to reach me: [@teekamsuthar](mailto:contact@teekamsuthar.com) via email
 - 🔉 Pronouns: He/His
 - ⚡ Fun fact: I love reading business books.
 
