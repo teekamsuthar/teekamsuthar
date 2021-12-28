@@ -1,4 +1,4 @@
-## Namaste, I'm [Teekam Suthar!](https://teekamsuthar.live) 🙏
+## Namaste, I'm [Teekam Suthar!](https://teekamsuthar.com) 🙏
 
 - 📱 Freelance Mobile App Developer.
 - 👨🏻‍💻 Cross-platform App dev using Flutter.
@@ -16,7 +16,7 @@
 [![Twitter: Teekam_Suthar](https://img.shields.io/twitter/follow/Teekam_Suthar?style=social)](https://twitter.com/Teekam_Suthar) -->
 [![Linkedin: teekamsuthar](https://img.shields.io/badge/-teekamsuthar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teekamsuthar/)](https://www.linkedin.com/in/teekamsuthar)
 [![GitHub teekamsuthar](https://img.shields.io/github/followers/teekamsuthar?label=follow&style=social)](https://github.com/teekamsuthar)
-[![website](https://img.shields.io/badge/PortfolioWebsite-teekamsuthar.live-2648ff?style=flat-square&logo=google-chrome)](https://teekamsuthar.me) 
+[![website](https://img.shields.io/badge/PortfolioWebsite-teekamsuthar.com-2648ff?style=flat-square&logo=google-chrome)](https://teekamsuthar.com) 
 <img src="https://komarev.com/ghpvc/?username=teekamsuthar&label=Views&color=blue&style=plastic" alt="teekamsuthar" /> 
 
 </p>
